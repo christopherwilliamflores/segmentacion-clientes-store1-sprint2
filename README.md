@@ -1,0 +1,1 @@
+# segmentacion-clientes-store1-sprint2
